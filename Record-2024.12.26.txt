@@ -1,0 +1,15 @@
+2024.12.26
+
+Create a new repository: Flet-DevelopersThoughtProcess
+Scatteredly documenting the thought process, emotional journey, sparks of inspiration, insights, and frustrations of the Legendary Pistachio during the Flet development process.
+
+Decided to merge the example code repository of Flet knowledge points into the Flet custom repository. The purpose of this is to facilitate centralized maintenance of the repository and to concentrate efforts on promoting it effectively.
+
+
+2024.12.26
+
+1. 创建新资源库：Flet-DevelopersThoughtProcess
+
+零散地记录Flet开发者传奇开心果在Flet开发过程中的思想轨迹、心路历程、灵感火花、心得体会和郁闷困惑。
+
+2. 决定把flet知识点示例代码库合并到flet自定义资源库，这样做目的是资源库易于集中维护，易于集中人力大力宣传。
